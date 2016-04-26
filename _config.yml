@@ -1,0 +1,28 @@
+name: 'HIDn '
+favicon: null
+layout_spectrum: 0.016795559087768197
+typography_spectrum: 0.707618290791288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.23245326522737741
+  lightness: 0.311317770043388
+  saturation: 0.9799169830512255
+  rhythmicContrast: 0.7579058643896133
+purpose: []
